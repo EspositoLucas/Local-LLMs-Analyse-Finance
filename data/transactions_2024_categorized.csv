@@ -1,0 +1,126 @@
+Date,Name / Description,Expense/Income,Amount (Argentinian Peso),Category
+19/01/24,TRANSF. CLIENTE ,Income,2000.0,Banking
+19/01/24,TRANSFERENCIA INMEDIATA,Income,980.0,Immediate Transaction
+22/01/24,IMP PAIS SD,Expense,130.49,Important Payment for Software Subscription
+22/01/24,APPLE.COM/BILL,Expense,1731.3,Apple Bill
+22/01/24,RG 4815/20,Expense,489.36,Utility Bills
+23/01/24,IVA SERV DIGIT-RG AFIP 4240,Expense,363.57,Services
+28/02/24,TRANSF. CLIENTE ,Income,30000.0,Banking
+29/02/24,OPENPAY*VIDA POINT,Expense,2900.0,Openpay Point of Sale
+29/02/24,DIA TIENDA 268,Expense,3518.75,Groceries
+29/02/24,FEI LI,Expense,3000.0,Fei Li
+29/02/24,MERPAGO*HAKUNA,Expense,1802.5,Merpage Transaction
+01/03/24,INTERESES GANADOS,Income,0.07,Investment Interests
+01/03/24,JULIO CESAR ESTRADA,Expense,2593.0,Julio Cesar Estravia
+04/03/24,TRANSF. CLIENTE ,Income,10000.0,Banking
+04/03/24,DIA TIENDA 679,Expense,6310.0,Groceries
+04/03/24,FEI LI,Expense,5800.0,Fei Li
+05/03/24,COTO SUCURSAL 163,Expense,3870.38,Local Store
+05/03/24,PVS*SUPER URUBURU JOSE E,Expense,7500.0,Groceries
+08/03/24,TRANSF. CLIENTE ,Income,40000.0,Banking
+11/03/24,IMP PAIS SD,Expense,202.48,Important Payment for Software Subscription
+11/03/24,DIA TIENDA 268,Expense,2690.0,Groceries
+11/03/24,DIA TIENDA 679,Expense,4970.0,Groceries
+11/03/24,FEI LI,Expense,3000.0,Fei Li
+11/03/24,APPLE.COM/BILL,Expense,2705.95,Apple Bill
+11/03/24,RG 4815/20,Expense,759.31,Utility Bills
+12/03/24,COTO SUCURSAL 163,Expense,8790.73,Local Store
+12/03/24,MERPAGO*JUANLIN,Expense,2850.0,Merpage Transaction
+12/03/24,IVA SERV DIGIT-RG AFIP 4240,Expense,568.24,Services
+13/03/24,DIA TIENDA 679,Expense,3557.9,Groceries
+13/03/24,FEI LI,Expense,2950.0,Fei Li
+14/03/24,TRANSF. CLIENTE ,Income,30000.0,Banking
+14/03/24,VERDULERIA PAOLA,Expense,1700.0,Paola's Organic Market
+14/03/24,FEI LI,Expense,3000.0,Fei Li
+14/03/24,DIA TIENDA 268,Expense,3829.5,Groceries
+15/03/24,DIA TIENDA 679,Expense,8620.05,Groceries
+15/03/24,JULIO CESAR ESTRADA,Expense,1360.0,Julio Cesar Estravia
+18/03/24,TRANSF. CLIENTE ,Income,10000.0,Banking
+18/03/24,TRANSF. CLIENTE ,Income,20000.0,Banking
+18/03/24,VERDULERIA PAOLA,Expense,1215.0,Paola's Organic Market
+18/03/24,JULIO CESAR ESTRADA,Expense,620.0,Julio Cesar Estravia
+18/03/24,FEI LI,Expense,3000.0,Fei Li
+18/03/24,PVS*SUPER URUBURU JOSE E,Expense,6750.0,Groceries
+18/03/24,FARMACITY,Expense,12006.04,Healthcare
+18/03/24,MERPAGO*HAKUNA,Expense,1767.5,Merpage Transaction
+18/03/24,DIA TIENDA 679,Expense,3779.0,Groceries
+18/03/24,DIA TIENDA 268,Expense,7603.15,Groceries
+18/03/24,COTO SUCURSAL 163,Expense,13184.08,Local Store
+03/04/24,INTERESES GANADOS,Income,0.46,Investment Interests
+03/04/24,TRANSF. CLIENTE ,Income,20000.0,Banking
+03/04/24,JULIO CESAR ESTRADA,Expense,4323.0,Julio Cesar Estravia
+03/04/24,COTO SUCURSAL 163,Expense,6815.93,Local Store
+03/04/24,PVS*SUPER URUBURU JOSE E,Expense,7280.0,Groceries
+05/04/24,DIA TIENDA 268,Expense,1974.0,Groceries
+10/04/24,TRANSF. CLIENTE ,Income,50000.0,Banking
+11/04/24,MERPAGO*HAKUNA,Expense,1767.5,Merpage Transaction
+11/04/24,DIA TIENDA 268,Expense,6505.1,Groceries
+11/04/24,VERDULERIA PAOLA,Expense,2095.0,Paola's Organic Market
+11/04/24,FEI LI,Expense,5200.0,Fei Li
+12/04/24,DIA TIENDA 679,Expense,6789.0,Groceries
+15/04/24,VERDULERIA PAOLA,Expense,7311.0,Paola's Organic Market
+15/04/24,MERPAGO*JUANLIN,Expense,3000.0,Merpage Transaction
+15/04/24,PIGMENTO,Expense,2790.0,Pigment
+15/04/24,FEI LI,Expense,5900.0,Fei Li
+16/04/24,DIA TIENDA 268,Expense,4369.0,Groceries
+16/04/24,FEI LI,Expense,4650.0,Fei Li
+22/04/24,TRANSF. CLIENTE TEJERINA MARIA,Income,3000.0,Banking
+22/04/24,TRANSF. CLIENTE TEJERINA MARIA,Income,7600.0,Banking
+22/04/24,PIGMENTO,Expense,4218.57,Pigment
+23/04/24,VERDULERIA PAOLA,Expense,5885.0,Paola's Organic Market
+02/05/24,INTERESES GANADOS,Income,0.26,Investment Interests
+24/05/24,TRANSF. CLIENTE ,Income,100000.0,Banking
+27/05/24,MERPAGO*LANATURALEZA1855,Expense,11900.0,Merpage Transaction
+27/05/24,Market Avenida Sta. Fe,Expense,8836.44,Local Market
+27/05/24,DIA TIENDA 679,Expense,8578.6,Groceries
+28/05/24,NEW GARDEN,Expense,7495.0,New Garden
+28/05/24,MERPAGO*JUANLIN,Expense,4700.0,Merpage Transaction
+29/05/24,COTO SUCURSAL 163,Expense,14979.32,Local Store
+30/05/24,MERPAGO*LANATURALEZA1855,Expense,5800.0,Merpage Transaction
+30/05/24,LA FINCA,Expense,7760.0,La Finca
+30/05/24,DIA TIENDA 268,Expense,4237.4,Groceries
+31/05/24,MERPAGO*JUANLIN,Expense,7840.0,Merpage Transaction
+03/06/24,INTERESES GANADOS,Income,0.73,Investment Interests
+06/06/24,MERPAGO*JUANLIN,Expense,14000.0,Merpage Transaction
+06/06/24,NEW GARDEN,Expense,4400.0,New Garden
+01/07/24,INTERESES GANADOS,Income,0.15,Investment Interests
+01/07/24,TRANSF. CLIENTE ,Income,100000.0,Banking
+01/07/24,TRANSFERENCIA,Expense,30000.0,Banking
+03/07/24,COTO SUCURSAL 163,Expense,19067.6,Local Store
+04/07/24,TRANSF. CLIENTE TEJERINA MARIA,Income,10000.0,Banking
+05/07/24,NEW GARDEN,Expense,9400.0,New Garden
+08/07/24,VERDULERIA PAOLA,Expense,11287.0,Paola's Organic Market
+10/07/24,IMP PAIS SD,Expense,219.7,Important Payment for Software Subscription
+10/07/24,APPLE.COM BILL,Expense,2900.3,Apple Bill
+10/07/24,COTO SUCURSAL 163,Expense,11432.29,Local Store
+10/07/24,RG 4815/20,Expense,823.89,Utility Bills
+11/07/24,IVA SERV DIGIT-RG AFIP 4240,Expense,609.06,Services
+12/07/24,MERPAGO*JUANLIN,Expense,10750.0,Merpage Transaction
+12/07/24,VERDULERIA PAOLA,Expense,4338.0,Paola's Organic Market
+12/07/24,NEW GARDEN,Expense,4400.0,New Garden
+15/07/24,TRANSF. CLIENTE ,Income,50000.0,Banking
+15/07/24,DIA TIENDA 268,Expense,9481.7,Groceries
+15/07/24,TRANSFERENCIA,Expense,20000.0,Banking
+15/07/24,TRANSFERENCIA,Expense,10000.0,Banking
+16/07/24,DIA TIENDA 679,Expense,7595.9,Groceries
+19/07/24,TRANSFERENCIA,Expense,8388.09,Banking
+22/07/24,TRANSF. CLIENTE ,Income,50000.0,Banking
+22/07/24,TRANSFERENCIA,Expense,30000.0,Banking
+22/07/24,DIA TIENDA 679,Expense,9075.41,Groceries
+25/07/24,REINTEGRO MODO. 100% en tu Prim,Income,5000.0,Housing
+25/07/24,REINTEGRO MODO. 20% en cualquie,Income,1000.0,Miscellaneous
+29/07/24,TRANSFERENCIA,Expense,16924.0,Banking
+01/08/24,INTERESES GANADOS,Income,0.94,Investment Interests
+07/08/24,TRANSF. CLIENTE ,Income,20000.0,Banking
+09/08/24,VERDULERIA PAOLA,Expense,3612.0,Paola's Organic Market
+12/08/24,IMP PAIS SD,Expense,224.6,Important Payment for Software Subscription
+12/08/24,APPLE.COM/BILL,Expense,2972.06,Apple Bill
+12/08/24,RG 4815/20,Expense,842.28,Utility Bills
+13/08/24,IVA SERV DIGIT-RG AFIP 4240,Expense,624.13,Services
+26/08/24,TRANSF. CLIENTE ,Income,50000.0,Banking
+26/08/24,VERDULERIA PAOLA,Expense,8552.0,Paola's Organic Market
+26/08/24,TRANSFERENCIA,Expense,30000.0,Banking
+26/08/24,DIA TIENDA 679,Expense,5436.25,Groceries
+27/08/24,VERDULERIA PAOLA,Expense,7346.0,Paola's Organic Market
+28/08/24,TRANSF. CLIENTE ,Income,30000.0,Banking
+28/08/24,COTO SUCURSAL 163,Expense,8689.48,Local Store
