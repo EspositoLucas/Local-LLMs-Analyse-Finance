@@ -1,4 +1,4 @@
-# Local-LLMs-Analyse-Finance
+# Local-LLMs-Analyze-Finance
 
 In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
 
